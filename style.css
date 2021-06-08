@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: rgb(245, 245, 245);
+}
+.card {
+  border: none;
+  border-radius: 10px;
+}
+li {
+  border-bottom: 1px solid #ddd;
+}
+.btn {
+  border-radius: 30px;
+}
